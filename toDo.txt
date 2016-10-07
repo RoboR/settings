@@ -1,0 +1,6 @@
+Using Batch, read a conf file. load the conf file, eg COM port and as a parameter of a python scripts
+
+Using python, to extract info from text file. 
+- start 
+- end 
+- first, last, multiple 
